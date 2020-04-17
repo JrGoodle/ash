@@ -1,0 +1,3 @@
+[submodule "duffy"]
+	path = duffy
+	url = git@github.com:JrGoodle/duffy.git
